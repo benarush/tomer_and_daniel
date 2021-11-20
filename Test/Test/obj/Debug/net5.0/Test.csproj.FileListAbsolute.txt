@@ -1,0 +1,15 @@
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/bin/Debug/net5.0/Test.deps.json
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/bin/Debug/net5.0/Test.runtimeconfig.json
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/bin/Debug/net5.0/Test.runtimeconfig.dev.json
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/bin/Debug/net5.0/Test.dll
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/bin/Debug/net5.0/ref/Test.dll
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/bin/Debug/net5.0/Test.pdb
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.csprojAssemblyReference.cache
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.AssemblyInfoInputs.cache
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.AssemblyInfo.cs
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.csproj.CoreCompileInputs.cache
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.dll
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/ref/Test.dll
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.pdb
+/Users/tomerbenharuah/Desktop/Tomer_Ben_Harush/Applications/Git/TestGit/Test/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache
